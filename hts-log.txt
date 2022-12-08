@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Dec 2022 08:35:36 at https://plcdelnorte.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://plcdelnorte.com/ -O1 "C:\Users\Hp\Desktop\Demo\plc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:58:19	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=2821
+08:58:19	Warning: 	File has moved from https://plcdelnorte.com/?p=2821 to https://plcdelnorte.com/carrito/
+08:59:35	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=2824
+08:59:35	Warning: 	File has moved from https://plcdelnorte.com/?p=2824 to https://plcdelnorte.com/somos/
+08:59:39	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=414
+08:59:39	Warning: 	File has moved from https://plcdelnorte.com/?p=414 to https://plcdelnorte.com/contacto/
+09:01:25	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3057
+09:01:25	Warning: 	File has moved from https://plcdelnorte.com/?p=3057 to https://plcdelnorte.com/tienda/servomotores-y-encoders/siemens-servomotores-y-encoders/siemens-1fk7042-5af71-1eh3-servomotor/
+09:01:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3055
+09:01:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3055 to https://plcdelnorte.com/tienda/variadores-de-frecuencia/siemens-variadores-de-frecuencia/siemens-6se6420-2ad31-1ca1-variador-de-frecuencia-micromaster-420-de-15hp-en-440v/
+09:01:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3053
+09:01:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3053 to https://plcdelnorte.com/tienda/contactores-y-guardamotores/siemens-contactores-y-guardamotores/siemens-3rv1742-5ed10-guardamotor-sirius-de-30amp/
+09:01:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3047
+09:01:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3047 to https://plcdelnorte.com/tienda/sensores-vision-switches/otros-sensores-vision-switches/ifm-o2d220-sensor-de-reconocimiento-de-objetos-o2dirpkg-k/
+09:01:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3044
+09:01:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3044 to https://plcdelnorte.com/tienda/otros-productos/schunk-pzn64-1-is-pinza-central-de-3-puntos/
+09:01:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3040
+09:01:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3040 to https://plcdelnorte.com/tienda/plc/otros/siemens-simatic-9ac9100-1aa01-ip32m/
+09:01:43	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3038
+09:01:43	Warning: 	File has moved from https://plcdelnorte.com/?p=3038 to https://plcdelnorte.com/tienda/plc/simadyn-d/siemens-simadyn-d-6dd1683-0cc0-fuente-de-poder-sp22/
+09:01:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://plcdelnorte.com/wp-content/uploads/2021/07/SIEMENS-SIMADYN-D-6DD1683-0CC0-Fuente-de-Poder-SP22-2-300x400.jpg (from https://plcdelnorte.com/tienda/plc/simadyn-d/siemens-simadyn-d-6dd1683-0cc0-fuente-de-poder-sp22/)
+09:01:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://plcdelnorte.com/wp-content/uploads/2021/07/SIEMENS-SIMADYN-D-6DD1683-0CC0-Fuente-de-Poder-SP22-3.jpg (from https://plcdelnorte.com/tienda/plc/simadyn-d/siemens-simadyn-d-6dd1683-0cc0-fuente-de-poder-sp22/)
+09:01:53	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3036
+09:01:53	Warning: 	File has moved from https://plcdelnorte.com/?p=3036 to https://plcdelnorte.com/tienda/plc/simatic-505/siemens-505-6660-fuente-de-poder-simatic-505/
+09:01:56	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3034
+09:01:56	Warning: 	File has moved from https://plcdelnorte.com/?p=3034 to https://plcdelnorte.com/tienda/servo-amplificadores-modulos-de-poder-robot-y-control/fanuc-servo-amplificadores-modulos-de-poder-robot-y-control/fanuc-a06b-6082-h211h511-spindle-amplifier-module/
+09:01:58	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3032
+09:01:58	Warning: 	File has moved from https://plcdelnorte.com/?p=3032 to https://plcdelnorte.com/tienda/servo-amplificadores-modulos-de-poder-robot-y-control/siemens-servo-amplificadores-modulos-de-poder-robot-y-control/siemens-simodrive-6sn1118-1nh01-0aa1-modulo-2-axis/
+09:02:10	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3016
+09:02:10	Warning: 	File has moved from https://plcdelnorte.com/?p=3016 to https://plcdelnorte.com/tienda/plc/compactlogix/allen-bradley-1768-m04se-modulo-compactlogix-4-axis-sercos/
+09:02:21	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3029
+09:02:21	Warning: 	File has moved from https://plcdelnorte.com/?p=3029 to https://plcdelnorte.com/tienda/equipo-hidraulico/bombas/bomba-hidraulica-kracht-kf-8-rf-1-d-15-d-58791/
+09:02:24	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3025
+09:02:24	Warning: 	File has moved from https://plcdelnorte.com/?p=3025 to https://plcdelnorte.com/tienda/plc/simadyn-d/siemens-simadyn-d-6dd1681-0ca2-interfaz-bgr-se20-0/
+09:02:26	Warning: 	Moved Permanently for https://plcdelnorte.com/?p=3013
+09:02:26	Warning: 	File has moved from https://plcdelnorte.com/?p=3013 to https://plcdelnorte.com/tienda/servo-amplificadores-modulos-de-poder-robot-y-control/siemens-servo-amplificadores-modulos-de-poder-robot-y-control/siemens-sinumerik-840d-6fc5357-0bb34-0aa0/
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 minutes 16 seconds : 1502 links scanned, 1482 files written (237397146 bytes overall) [36450123 bytes received at 22280 bytes/sec], 221088656 bytes transferred using HTTP compression in 817 files, ratio 8%, 8.1 requests per connection
+(No errors, 36 warnings, 0 messages)

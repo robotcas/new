@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+plcdelnorte.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+plcdelnorte.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_5bcf854cc17e7bb4b7adf2eb7876a313	t_eca924823798b66021efca7a2d715f%7C%7C1670510381%7C%7C1670506781%7C%7C1927a2115bff28a301eeba3e7b680110
+plcdelnorte.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	9ba1037b5ff21d3926aed01a7b753613
+plcdelnorte.com	TRUE	/	FALSE	1999999999	woocommerce_recently_viewed	3057%7C3055%7C3053%7C3047%7C3044%7C3040%7C3038%7C3036%7C3034%7C3032%7C3016%7C3029%7C3025%7C3013
+
